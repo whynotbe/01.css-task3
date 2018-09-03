@@ -1,0 +1,92 @@
+html, body{
+    height:100%;
+    background-color:rgb(104,205,213);
+}
+
+.main{
+    background-color:rgb(104,205,213);
+    width:100%;
+    margin:0;
+    padding:0;
+    float:left;
+    height:1168px;
+
+}
+.icon_goback{
+    background-image:url(source/back.png);
+    float:left;
+    margin-left:5.6%;
+    margin-top:20px;
+    background-size:100%;
+    background-repeat:no-repeat;
+    width:8%;
+    height:9.8%;
+
+}
+.title{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:114px;
+    width:192px;
+    height:76px;
+    background-image:url(source/logo.png);
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+
+.paragragh{
+    float:left;
+    margin-top:115px;
+    margin-left:13%;
+    font-size:30px;
+    line-height:45px;
+    color:#ffffff;
+    width:70%;
+}
+.user{
+    float:left;
+    width:125px;
+    margin-left:22%;
+    margin-top:170px;
+
+}
+.user_icon{
+    background-image:url(source/icon1.png);
+    float:left;
+    width:88px;
+    margin-left:10%;
+    height:88px;
+    background-size:cover;
+
+
+}
+.user_id{
+    font-size:22px;
+    line-height:26px;
+    color:#ffffff;
+    float:left;
+    margin-top:10%;
+
+}
+.company{
+    float:right;
+    width:125px;
+    margin-right:22%;
+    margin-top:170px;
+
+}
+.company_icon{
+    float:left;
+    background-image:url(source/icon2.png);
+    width:88px;
+    margin-left:10%;
+    height:88px;
+    background-size:cover;
+}
+.company_name{
+    font-size:22px;
+    line-height:26px;
+    color:#ffffff;
+    float:left;
+    margin-top:10%;
+}
